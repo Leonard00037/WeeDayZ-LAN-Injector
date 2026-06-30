@@ -2,7 +2,7 @@
 
 > Conectate a servidores LAN / Hamachi / Radmin usando el flujo oficial del WeeDayZ Launcher (Steam auth, mod verification, etc.)
 
-![App Screenshot](screenshots/aplicacion-abierta.png)
+![App Screenshot](https://i.ibb.co/d495TyZD/aplicacion-abierta.png)
 
 ## ✨ Que hace
 
@@ -13,7 +13,7 @@ El WeeDayZ Launcher oficial solo muestra servidores de su lista remota. Esta her
 - ✅ Lanza DayZ con los parametros correctos (`-mod`, `-connect`, `-port`)
 - ✅ El juego se conecta a tu servidor LAN / Hamachi / Radmin
 
-![Server in list](screenshots/servidor-lan-en-la-lista-de-servidores.png)
+![Server in list](https://i.ibb.co/S7J3JmcX/servidor-lan-en-la-lista-de-servidores.png)
 
 ## 🚀 Como usar
 
@@ -27,7 +27,6 @@ El WeeDayZ Launcher oficial solo muestra servidores de su lista remota. Esta her
 5. **Abre el WeeDayZ Launcher** — el servidor aparece en la lista
 6. **Clic en Play** — todo el flujo oficial, conecta a tu LAN
 
-<!-- ![App configurada](screenshots/app-config.png) -->
 
 ### Para compartir con amigos
 
@@ -84,7 +83,7 @@ Cuando el backend envia la lista de servidores, React ve nuestro server como si 
 
 | Aplicacion | Servidor en la lista |
 |---|---|
-| ![App](screenshots/aplicacion-abierta.png) | ![Servidor en lista](screenshots/servidor-lan-en-la-lista-de-servidores.png) |
+| ![App](https://i.ibb.co/d495TyZD/aplicacion-abierta.png) | ![Servidor en lista](https://i.ibb.co/S7J3JmcX/servidor-lan-en-la-lista-de-servidores.png) |
 
 ## 📄 Licencia
 
